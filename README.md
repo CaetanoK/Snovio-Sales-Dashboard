@@ -1,4 +1,4 @@
-# Jupyter Notebook: Pipedrive Data Processing
+# Pilot Project - Pipedrive Data Process to Snovio Sales Dashboard
 
 This Jupyter Notebook is designed to process and analyze data from a Pipedrive API and perform various database operations. The code is divided into multiple sections that outline different stages of the data processing pipeline, including database setup, data retrieval, and data manipulation. Below are the main sections of the notebook explained in detail:
 
